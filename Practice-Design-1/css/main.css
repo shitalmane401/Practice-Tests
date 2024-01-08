@@ -376,7 +376,6 @@ a.logo span{
 .overview-content h2 {
 	color: #363636;
 	margin-top: 25px;
-	font-size: 
 }
 .overview-content h5{
 	text-transform: capitalize;
@@ -405,7 +404,7 @@ a.logo span{
 .overview img{
 	box-shadow: 0px 5px 20px -10px black;
     width: 90%;
-    margin-top: -270px;
+    margin-top: -180px;
     margin-bottom: 3em;
 }
 .overview .col-md-4{
@@ -459,15 +458,12 @@ a.logo span{
 }
 .story1 .img-responsive{
     border-radius: 10px;
-    width: 300px;
     box-shadow: 0px 5px 20px -10px black;
 }
 .story1 .section-intro {
     margin: 5% 46% 5% 0;
 }
-.story1 .section-title {
-    margin-top: 2em;
-}
+
 /* ------------------------------------------------------------------------------
 	Workflows
 -------------------------------------------------------------------------------*/
@@ -668,7 +664,7 @@ a.logo span{
     display: -moz-inline-stack;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
